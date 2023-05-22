@@ -156,3 +156,8 @@ pubmatic.com, 159512, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160205, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156486, RESELLER, 5d62403b186f2ace
 gameadzone.com, 1128, DIRECT
+onetag.com, 7eea926e0267326, DIRECT
+onetag.com, 7eea926e0267326-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
